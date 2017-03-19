@@ -1,2 +1,2 @@
 # teach-your-kids-to-code
-code from a book wrote by Bryson Payne
+This book is wrote by Bryson Payne.
